@@ -1,0 +1,1 @@
+c:\xampp\php\php.exe -q c:\xampp\htdocs\websocket\webserver.php
